@@ -1,0 +1,17 @@
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\bin\Debug\net6.0-windows\Tarea4_lab.exe
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\bin\Debug\net6.0-windows\Tarea4_lab.deps.json
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\bin\Debug\net6.0-windows\Tarea4_lab.runtimeconfig.json
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\bin\Debug\net6.0-windows\Tarea4_lab.dll
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\bin\Debug\net6.0-windows\ref\Tarea4_lab.dll
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\bin\Debug\net6.0-windows\Tarea4_lab.pdb
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.vbproj.AssemblyReference.cache
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.Form1.resources
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.vbproj.GenerateResource.cache
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.AssemblyInfoInputs.cache
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.AssemblyInfo.vb
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.vbproj.CoreCompileInputs.cache
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.dll
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\ref\Tarea4_lab.dll
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.pdb
+C:\Users\Tefy\Documents\USAC\Usac 2022\Programacion de computadoras 2\Tarea4_lab\Tarea4_lab\obj\Debug\net6.0-windows\Tarea4_lab.genruntimeconfig.cache
